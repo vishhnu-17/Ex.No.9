@@ -124,8 +124,8 @@ Note the differences, adjust the prompt, and regenerate until the output closely
 ## Video 1
 
 ### Original Video
+https://labs.google/fx/tools/flow/shared/video/54c899ed-d137-4d5e-976f-014828bcfcec
 
-[https://github.com/user-attachments/assets/f1-racing-original](https://labs.google/fx/tools/flow/shared/video/54c899ed-d137-4d5e-976f-014828bcfcec)
 
 ### Prompts Used
 
@@ -161,8 +161,7 @@ No unrealistic objects, no text overlays, no futuristic vehicles. Pure realistic
 ```
 
 ### Generated Video
-
-https://labs.google/fx/tools/flow/shared/video/54c899ed-d137-4d5e-976f-014828bcfcec
+https://labs.google/fx/tools/flow/shared/video/6655a9aa-9171-4677-9923-4547ee77290e
 
 ---
 
