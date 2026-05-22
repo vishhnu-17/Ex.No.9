@@ -1,7 +1,9 @@
 # Exp 9 — Exploration of Prompting Techniques for Video Generation
 
 **Experiment No.:** 9  
+
 **Date:**   22-5-26
+
 **Register No.:**   212223040103
 
 ---
