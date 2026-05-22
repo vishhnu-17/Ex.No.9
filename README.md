@@ -1,8 +1,8 @@
 # Exp 9 — Exploration of Prompting Techniques for Video Generation
 
 **Experiment No.:** 9  
-**Date:**   
-**Register No.:**   
+**Date:**   22-5-26
+**Register No.:**   212223040103
 
 ---
 
@@ -162,7 +162,7 @@ No unrealistic objects, no text overlays, no futuristic vehicles. Pure realistic
 
 ### Generated Video
 
-https://github.com/user-attachments/assets/f1-racing-generated
+https://labs.google/fx/tools/flow/shared/video/54c899ed-d137-4d5e-976f-014828bcfcec
 
 ---
 
