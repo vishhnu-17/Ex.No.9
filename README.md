@@ -125,7 +125,7 @@ Note the differences, adjust the prompt, and regenerate until the output closely
 
 ### Original Video
 
-https://github.com/user-attachments/assets/f1-racing-original
+[https://github.com/user-attachments/assets/f1-racing-original](https://labs.google/fx/tools/flow/shared/video/54c899ed-d137-4d5e-976f-014828bcfcec)
 
 ### Prompts Used
 
